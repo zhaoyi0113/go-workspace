@@ -1,4 +1,4 @@
-module github.com/x/example
+module github.com/example
 
 go 1.18
 
