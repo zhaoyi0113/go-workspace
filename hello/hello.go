@@ -1,11 +1,11 @@
 package main
 
 import (
-    "fmt"
+	"fmt"
 
-    "github.com/example/hello/reverse"
+	"github.com/zhaoyi0113/go-workspace/example/hello/reverse"
 )
 
 func main() {
-    fmt.Println(reverse.String("Hello"), reverse.Int(24601))
+	fmt.Println(reverse.String("Hello"), reverse.Int(24601))
 }
