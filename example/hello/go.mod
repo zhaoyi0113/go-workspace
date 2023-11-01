@@ -1,4 +1,4 @@
-module golang.org/x/example/hello
+module github.com/example/hello
 
 go 1.19
 
